@@ -1,5 +1,5 @@
 
-export function timeConverter(a) {
+export function timeConverter(a: string): string {
 
     // your code here
     return undefined;
