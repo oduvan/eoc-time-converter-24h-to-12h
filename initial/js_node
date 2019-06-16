@@ -1,0 +1,17 @@
+
+export function timeConverter(a) {
+
+    // your code here
+    return undefined;
+}
+
+import * as assert from 'assert';
+console.log('Example:');
+console.log(timeConverter('12:30'));
+
+// These "asserts" are used for self-checking
+assert.equal(timeConverter('12:30'), '12:30 p.m.');
+assert.equal(timeConverter('09:00'), '9:00 a.m.');
+
+console.log("Coding complete? Click 'Check' to earn cool rewards!");
+    
